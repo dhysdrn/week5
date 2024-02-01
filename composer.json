@@ -1,0 +1,17 @@
+{
+  "name": "dhiyaana/328/week5",
+  "description": "Practice Templating",
+  "authors": [
+    {
+      "name": "Dhiyaa Nazim",
+      "email": "dhysdrn@gmail.com"
+    },
+    {
+      "name": "Joe Shmo",
+      "email": "jshmo@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
